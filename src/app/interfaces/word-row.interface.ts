@@ -1,5 +1,5 @@
 export interface WordRow {
   number: number
-  wordGroup: string
+  hint: string
   word: string
 }

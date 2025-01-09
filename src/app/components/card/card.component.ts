@@ -12,7 +12,7 @@ import { WordComponent } from '../word/word.component'
 export class CardComponent {
   rows: WordRow[] = Array.from({ length: 8 }, (_, i) => ({
     number: i + 1,
-    wordGroup: `Group ${i + 1}`,
+    hint: `Group ${i + 1}`,
     word: `Word ${i + 1}`,
   }))
 }
