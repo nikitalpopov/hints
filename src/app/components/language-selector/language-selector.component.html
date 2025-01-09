@@ -1,0 +1,18 @@
+<div class="language-selector">
+  <div class="language-selector__select-wrapper">
+    <select
+      class="language-selector__select"
+      [value]="currentLanguage"
+      (change)="onLanguageChange($event)"
+    >
+      @for (lang of languages; track lang.code) {
+        <option [value]="lang.code">{{ lang.flag }} {{ lang.name }}</option>
+      }
+    </select>
+    <fa-icon class="language-selector__select-icon" [icon]="chevronIcon"></fa-icon>
+  </div>
+
+  <button class="language-selector__refresh" (click)="onRefresh()" title="Load another card">
+    <fa-icon [icon]="refreshIcon"></fa-icon>
+  </button>
+</div>

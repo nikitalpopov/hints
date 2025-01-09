@@ -1,0 +1,30 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "words": [
+        { "number": 1, "hint": "Animals", "word": "Lion" },
+        { "number": 2, "hint": "Colors", "word": "Blue" },
+        { "number": 3, "hint": "Food", "word": "Pizza" },
+        { "number": 4, "hint": "Weather", "word": "Sunny" },
+        { "number": 5, "hint": "Emotions", "word": "Happy" },
+        { "number": 6, "hint": "Sports", "word": "Tennis" },
+        { "number": 7, "hint": "Nature", "word": "Mountain" },
+        { "number": 8, "hint": "Jobs", "word": "Teacher" }
+      ]
+    },
+    {
+      "id": 2,
+      "words": [
+        { "number": 1, "hint": "Vehicles", "word": "Car" },
+        { "number": 2, "hint": "Furniture", "word": "Chair" },
+        { "number": 3, "hint": "Clothes", "word": "Shirt" },
+        { "number": 4, "hint": "Body", "word": "Hand" },
+        { "number": 5, "hint": "Music", "word": "Piano" },
+        { "number": 6, "hint": "Tools", "word": "Hammer" },
+        { "number": 7, "hint": "Plants", "word": "Tree" },
+        { "number": 8, "hint": "Places", "word": "Beach" }
+      ]
+    }
+  ]
+}

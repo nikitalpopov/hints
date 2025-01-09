@@ -1,7 +1,7 @@
 .word {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgb(238, 238, 238);
   font-size: 0.9rem;
 
   &__number {
@@ -38,7 +38,7 @@
   }
 
   &__text {
-    color: #003366;
+    color: rgb(0, 51, 102);
     padding: 8px 1rem 8px;
   }
 }

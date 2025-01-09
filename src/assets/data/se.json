@@ -1,0 +1,30 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "words": [
+        { "number": 1, "hint": "Djur", "word": "Lejon" },
+        { "number": 2, "hint": "Färger", "word": "Blå" },
+        { "number": 3, "hint": "Mat", "word": "Pizza" },
+        { "number": 4, "hint": "Väder", "word": "Solig" },
+        { "number": 5, "hint": "Känslor", "word": "Glad" },
+        { "number": 6, "hint": "Sport", "word": "Tennis" },
+        { "number": 7, "hint": "Natur", "word": "Berg" },
+        { "number": 8, "hint": "Jobb", "word": "Lärare" }
+      ]
+    },
+    {
+      "id": 2,
+      "words": [
+        { "number": 1, "hint": "Fordon", "word": "Bil" },
+        { "number": 2, "hint": "Möbler", "word": "Stol" },
+        { "number": 3, "hint": "Kläder", "word": "Skjorta" },
+        { "number": 4, "hint": "Kropp", "word": "Hand" },
+        { "number": 5, "hint": "Musik", "word": "Piano" },
+        { "number": 6, "hint": "Verktyg", "word": "Hammare" },
+        { "number": 7, "hint": "Växter", "word": "Träd" },
+        { "number": 8, "hint": "Platser", "word": "Strand" }
+      ]
+    }
+  ]
+}

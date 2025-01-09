@@ -1,0 +1,61 @@
+.language-selector {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+
+  &__select-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+
+  &__select {
+    padding: 8px 32px 8px 8px;
+    border-radius: 4px;
+    border: 1px solid rgb(204, 204, 204);
+    background-color: white;
+    cursor: pointer;
+    font-size: 16px;
+    appearance: none;
+
+    &:hover {
+      border-color: rgb(153, 153, 153);
+    }
+
+    &:hover + .language-selector__select-icon {
+      color: rgb(68, 68, 68);
+    }
+  }
+
+  &__select-icon {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: rgb(102, 102, 102);
+    font-size: 14px;
+  }
+
+  &__refresh {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid rgb(204, 204, 204);
+    background-color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+
+    &:hover {
+      border-color: rgb(153, 153, 153);
+      background-color: rgb(245, 245, 245);
+    }
+
+    fa-icon {
+      font-size: 16px;
+      color: rgb(102, 102, 102);
+    }
+  }
+}
