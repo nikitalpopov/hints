@@ -25,6 +25,266 @@
         { "number": 7, "hint": "Растения", "word": "Дерево" },
         { "number": 8, "hint": "Места", "word": "Пляж" }
       ]
+    },
+    {
+      "id": 3,
+      "words": [
+        { "number": 1, "hint": "Компания", "word": "Apple" },
+        { "number": 2, "hint": "Сериал", "word": "Breaking Bad" },
+        { "number": 3, "hint": "Игра", "word": "Minecraft" },
+        { "number": 4, "hint": "Личность", "word": "Einstein" },
+        { "number": 5, "hint": "Соцсеть", "word": "Instagram" },
+        { "number": 6, "hint": "Фильм", "word": "The Matrix" },
+        { "number": 7, "hint": "Бренд", "word": "Nike" },
+        { "number": 8, "hint": "Музыкант", "word": "Bob Marley" }
+      ]
+    },
+    {
+      "id": 4,
+      "words": [
+        { "number": 1, "hint": "Событие", "word": "Полет в космос" },
+        { "number": 2, "hint": "Изобретение", "word": "Интернет" },
+        { "number": 3, "hint": "Художник", "word": "Ван Гог" },
+        { "number": 4, "hint": "Город", "word": "Москва" },
+        { "number": 5, "hint": "Команда", "word": "Спартак" },
+        { "number": 6, "hint": "Ресторан", "word": "Теремок" },
+        { "number": 7, "hint": "Машина", "word": "Лада" },
+        { "number": 8, "hint": "Герой", "word": "Человек-паук" }
+      ]
+    },
+    {
+      "id": 5,
+      "words": [
+        { "number": 1, "hint": "Сервис", "word": "Netflix" },
+        { "number": 2, "hint": "Книга", "word": "Мастер и Маргарита" },
+        { "number": 3, "hint": "Валюта", "word": "Bitcoin" },
+        { "number": 4, "hint": "Мода", "word": "Zara" },
+        { "number": 5, "hint": "Бизнесмен", "word": "Павел Дуров" },
+        { "number": 6, "hint": "Приставка", "word": "PlayStation" },
+        { "number": 7, "hint": "Приложение", "word": "Telegram" },
+        { "number": 8, "hint": "Место", "word": "Красная площадь" }
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        { "number": 1, "hint": "Сериал", "word": "Кухня" },
+        { "number": 2, "hint": "Напиток", "word": "Квас" },
+        { "number": 3, "hint": "Гаджет", "word": "AirPods" },
+        { "number": 4, "hint": "Актер", "word": "Сергей Безруков" },
+        { "number": 5, "hint": "Бренд", "word": "Adidas" },
+        { "number": 6, "hint": "Университет", "word": "МГУ" },
+        { "number": 7, "hint": "Авиакомпания", "word": "Аэрофлот" },
+        { "number": 8, "hint": "Персонаж", "word": "Джеймс Бонд" }
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        { "number": 1, "hint": "Здание", "word": "Останкино" },
+        { "number": 2, "hint": "Группа", "word": "Кино" },
+        { "number": 3, "hint": "Программа", "word": "Windows" },
+        { "number": 4, "hint": "Искусство", "word": "Мона Лиза" },
+        { "number": 5, "hint": "Компания", "word": "ВКонтакте" },
+        { "number": 6, "hint": "Аниме", "word": "Dragon Ball" },
+        { "number": 7, "hint": "Игра", "word": "Монополия" },
+        { "number": 8, "hint": "Медиа", "word": "Первый канал" }
+      ]
+    },
+    {
+      "id": 8,
+      "words": [
+        { "number": 1, "hint": "История", "word": "Рюрики" },
+        { "number": 2, "hint": "Спорт", "word": "Хабиб" },
+        { "number": 3, "hint": "Транспорт", "word": "Камаз" },
+        { "number": 4, "hint": "Сайт", "word": "YouTube" },
+        { "number": 5, "hint": "Студия", "word": "Союзмультфильм" },
+        { "number": 6, "hint": "Профессия", "word": "Константин Ивлев" },
+        { "number": 7, "hint": "Праздник", "word": "Масленица" },
+        { "number": 8, "hint": "Газета", "word": "Коммерсантъ" }
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        { "number": 1, "hint": "Философ", "word": "Сократ" },
+        { "number": 2, "hint": "Достижение", "word": "Спутник" },
+        { "number": 3, "hint": "Битва", "word": "Бородино" },
+        { "number": 4, "hint": "Канал", "word": "НТВ" },
+        { "number": 5, "hint": "Компания", "word": "Nintendo" },
+        { "number": 6, "hint": "Робот", "word": "R2-D2" },
+        { "number": 7, "hint": "Бренд", "word": "Яндекс" },
+        { "number": 8, "hint": "Событие", "word": "Евровидение" }
+      ]
+    },
+    {
+      "id": 10,
+      "words": [
+        { "number": 1, "hint": "Персонаж", "word": "Чебурашка" },
+        { "number": 2, "hint": "Существо", "word": "Феникс" },
+        { "number": 3, "hint": "Здание", "word": "Эрмитаж" },
+        { "number": 4, "hint": "Приложение", "word": "ВКонтакте" },
+        { "number": 5, "hint": "Группа", "word": "Anonymous" },
+        { "number": 6, "hint": "Мультфильм", "word": "Ну, погоди!" },
+        { "number": 7, "hint": "Компания", "word": "Тинькофф" },
+        { "number": 8, "hint": "Место", "word": "Петергоф" }
+      ]
+    },
+    {
+      "id": 11,
+      "words": [
+        { "number": 1, "hint": "Речь", "word": "Гагаринское Поехали" },
+        { "number": 2, "hint": "Личность", "word": "Менделеев" },
+        { "number": 3, "hint": "Фраза", "word": "Быть или не быть" },
+        { "number": 4, "hint": "Фильм", "word": "Звёздные войны" },
+        { "number": 5, "hint": "Сайт", "word": "Википедия" },
+        { "number": 6, "hint": "Группа", "word": "Кино" },
+        { "number": 7, "hint": "Символ", "word": "Двуглавый орёл" },
+        { "number": 8, "hint": "Еда", "word": "Борщ" }
+      ]
+    },
+    {
+      "id": 12,
+      "words": [
+        { "number": 1, "hint": "Пара", "word": "Мастер и Маргарита" },
+        { "number": 2, "hint": "Наука", "word": "Большой взрыв" },
+        { "number": 3, "hint": "Предмет", "word": "Матрёшка" },
+        { "number": 4, "hint": "Корабль", "word": "Аврора" },
+        { "number": 5, "hint": "Злодей", "word": "Дарт Вейдер" },
+        { "number": 6, "hint": "Дуэт", "word": "Тату" },
+        { "number": 7, "hint": "Состязание", "word": "Олимпиада-80" },
+        { "number": 8, "hint": "Передача", "word": "Что? Где? Когда?" }
+      ]
+    },
+    {
+      "id": 13,
+      "words": [
+        { "number": 1, "hint": "Исследователь", "word": "Миклухо-Маклай" },
+        { "number": 2, "hint": "Опыт", "word": "Павловский рефлекс" },
+        { "number": 3, "hint": "Система", "word": "Госуслуги" },
+        { "number": 4, "hint": "Технология", "word": "Спутник" },
+        { "number": 5, "hint": "Эпидемия", "word": "Чума" },
+        { "number": 6, "hint": "Журнал", "word": "Наука и жизнь" },
+        { "number": 7, "hint": "Дискуссия", "word": "Перестройка" },
+        { "number": 8, "hint": "Открытие", "word": "Таблица Менделеева" }
+      ]
+    },
+    {
+      "id": 14,
+      "words": [
+        { "number": 1, "hint": "Эпоха", "word": "Оттепель" },
+        { "number": 2, "hint": "Движение", "word": "Декабристы" },
+        { "number": 3, "hint": "Династия", "word": "Романовы" },
+        { "number": 4, "hint": "Парк", "word": "Зарядье" },
+        { "number": 5, "hint": "Библиотека", "word": "Ленинка" },
+        { "number": 6, "hint": "Район", "word": "Арбат" },
+        { "number": 7, "hint": "Мост", "word": "Крымский" },
+        { "number": 8, "hint": "Храм", "word": "Василия Блаженного" }
+      ]
+    },
+    {
+      "id": 15,
+      "words": [
+        { "number": 1, "hint": "Разработка", "word": "ГЛОНАСС" },
+        { "number": 2, "hint": "Традиция", "word": "Баня" },
+        { "number": 3, "hint": "Магазин", "word": "ГУМ" },
+        { "number": 4, "hint": "Техника", "word": "Электроника" },
+        { "number": 5, "hint": "Игра", "word": "Тетрис" },
+        { "number": 6, "hint": "Платформа", "word": "TikTok" },
+        { "number": 7, "hint": "Компьютер", "word": "БЭСМ" },
+        { "number": 8, "hint": "Софт", "word": "Photoshop" }
+      ]
+    },
+    {
+      "id": 16,
+      "words": [
+        { "number": 1, "hint": "Напиток", "word": "Тархун" },
+        { "number": 2, "hint": "Здание", "word": "Дом на Набережной" },
+        { "number": 3, "hint": "Ресторан", "word": "Пушкинъ" },
+        { "number": 4, "hint": "Повар", "word": "Илья Лазерсон" },
+        { "number": 5, "hint": "Блюдо", "word": "Оливье" },
+        { "number": 6, "hint": "Место", "word": "ЦУМ" },
+        { "number": 7, "hint": "Улица", "word": "Тверская" },
+        { "number": 8, "hint": "Десерт", "word": "Птичье молоко" }
+      ]
+    },
+    {
+      "id": 17,
+      "words": [
+        { "number": 1, "hint": "Подкаст", "word": "Варламов" },
+        { "number": 2, "hint": "Блогер", "word": "Дудь" },
+        { "number": 3, "hint": "Киберспорт", "word": "Virtus.pro" },
+        { "number": 4, "hint": "Юмор", "word": "Чебурашка" },
+        { "number": 5, "hint": "Традиция", "word": "Оливьешка" },
+        { "number": 6, "hint": "Сеть", "word": "Рунет" },
+        { "number": 7, "hint": "Форум", "word": "Хабр" },
+        { "number": 8, "hint": "СМИ", "word": "РБК" }
+      ]
+    },
+    {
+      "id": 18,
+      "words": [
+        { "number": 1, "hint": "Фестиваль", "word": "Нашествие" },
+        { "number": 2, "hint": "Концерт", "word": "Голубой огонёк" },
+        { "number": 3, "hint": "Шоу", "word": "КВН" },
+        { "number": 4, "hint": "Площадка", "word": "Лужники" },
+        { "number": 5, "hint": "Студия", "word": "Мосфильм" },
+        { "number": 6, "hint": "Альбом", "word": "Чёрный альбом" },
+        { "number": 7, "hint": "Песня", "word": "Группа крови" },
+        { "number": 8, "hint": "Лейбл", "word": "Мелодия" }
+      ]
+    },
+    {
+      "id": 19,
+      "words": [
+        { "number": 1, "hint": "Спорт", "word": "Красная машина" },
+        { "number": 2, "hint": "Команда", "word": "ЦСКА" },
+        { "number": 3, "hint": "Турнир", "word": "Кубок Кремля" },
+        { "number": 4, "hint": "Спортсмен", "word": "Алина Кабаева" },
+        { "number": 5, "hint": "Стадион", "word": "Лужники" },
+        { "number": 6, "hint": "Лига", "word": "РПЛ" },
+        { "number": 7, "hint": "Состязание", "word": "Спартакиада" },
+        { "number": 8, "hint": "Награда", "word": "Золотой пьедестал" }
+      ]
+    },
+    {
+      "id": 20,
+      "words": [
+        { "number": 1, "hint": "Приложение", "word": "Сбербанк" },
+        { "number": 2, "hint": "Компания", "word": "Газпром" },
+        { "number": 3, "hint": "Продукт", "word": "Калашников" },
+        { "number": 4, "hint": "Сервис", "word": "Госуслуги" },
+        { "number": 5, "hint": "Личность", "word": "Касперский" },
+        { "number": 6, "hint": "Бизнесмен", "word": "Михаил Прохоров" },
+        { "number": 7, "hint": "Торговля", "word": "Озон" },
+        { "number": 8, "hint": "Финансы", "word": "Московская биржа" }
+      ]
+    },
+    {
+      "id": 21,
+      "words": [
+        { "number": 1, "hint": "Фильм", "word": "Ирония судьбы" },
+        { "number": 2, "hint": "Режиссер", "word": "Андрей Тарковский" },
+        { "number": 3, "hint": "Сцена", "word": "Мосфильм" },
+        { "number": 4, "hint": "Цитата", "word": "В бой идут одни старики" },
+        { "number": 5, "hint": "Премия", "word": "Ника" },
+        { "number": 6, "hint": "Образ", "word": "Штирлиц" },
+        { "number": 7, "hint": "Атрибут", "word": "Чебурашка" },
+        { "number": 8, "hint": "Спецэффект", "word": "Ночной дозор" }
+      ]
+    },
+    {
+      "id": 22,
+      "words": [
+        { "number": 1, "hint": "Литература", "word": "Евгений Онегин" },
+        { "number": 2, "hint": "Писатель", "word": "Достоевский" },
+        { "number": 3, "hint": "Герой", "word": "Печорин" },
+        { "number": 4, "hint": "Комикс", "word": "Мурзилка" },
+        { "number": 5, "hint": "Роман", "word": "Война и мир" },
+        { "number": 6, "hint": "Заведение", "word": "МХАТ" },
+        { "number": 7, "hint": "Издательство", "word": "АСТ" },
+        { "number": 8, "hint": "Жанр", "word": "Русский рок" }
+      ]
     }
   ]
 }

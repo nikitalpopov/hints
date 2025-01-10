@@ -25,6 +25,266 @@
         { "number": 7, "hint": "Växter", "word": "Träd" },
         { "number": 8, "hint": "Platser", "word": "Strand" }
       ]
+    },
+    {
+      "id": 3,
+      "words": [
+        { "number": 1, "hint": "Teknikföretag", "word": "Apple" },
+        { "number": 2, "hint": "TV-program", "word": "Breaking Bad" },
+        { "number": 3, "hint": "Videospel", "word": "Minecraft" },
+        { "number": 4, "hint": "Person", "word": "Einstein" },
+        { "number": 5, "hint": "Sociala Medier", "word": "Instagram" },
+        { "number": 6, "hint": "Film", "word": "The Matrix" },
+        { "number": 7, "hint": "Varumärke", "word": "Nike" },
+        { "number": 8, "hint": "Musiker", "word": "Bob Marley" }
+      ]
+    },
+    {
+      "id": 4,
+      "words": [
+        { "number": 1, "hint": "Händelse", "word": "Månlandning" },
+        { "number": 2, "hint": "Uppfinning", "word": "Internet" },
+        { "number": 3, "hint": "Konstnär", "word": "Van Gogh" },
+        { "number": 4, "hint": "Stad", "word": "Stockholm" },
+        { "number": 5, "hint": "Lag", "word": "AIK" },
+        { "number": 6, "hint": "Restaurang", "word": "Max" },
+        { "number": 7, "hint": "Bil", "word": "Volvo" },
+        { "number": 8, "hint": "Hjälte", "word": "Spider-Man" }
+      ]
+    },
+    {
+      "id": 5,
+      "words": [
+        { "number": 1, "hint": "Streamingtjänst", "word": "Netflix" },
+        { "number": 2, "hint": "Bok", "word": "Pippi Långstrump" },
+        { "number": 3, "hint": "Valuta", "word": "Bitcoin" },
+        { "number": 4, "hint": "Mode", "word": "H&M" },
+        { "number": 5, "hint": "Företagare", "word": "Ingvar Kamprad" },
+        { "number": 6, "hint": "Spelkonsol", "word": "PlayStation" },
+        { "number": 7, "hint": "App", "word": "WhatsApp" },
+        { "number": 8, "hint": "Sevärdhet", "word": "Globen" }
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        { "number": 1, "hint": "TV-serie", "word": "Solsidan" },
+        { "number": 2, "hint": "Dryck", "word": "Julmust" },
+        { "number": 3, "hint": "Pryl", "word": "AirPods" },
+        { "number": 4, "hint": "Skådespelare", "word": "Stellan Skarsgård" },
+        { "number": 5, "hint": "Sportmärke", "word": "Adidas" },
+        { "number": 6, "hint": "Universitet", "word": "Uppsala" },
+        { "number": 7, "hint": "Flygbolag", "word": "SAS" },
+        { "number": 8, "hint": "Karaktär", "word": "James Bond" }
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        { "number": 1, "hint": "Byggnad", "word": "Turning Torso" },
+        { "number": 2, "hint": "Band", "word": "ABBA" },
+        { "number": 3, "hint": "Program", "word": "Windows" },
+        { "number": 4, "hint": "Konst", "word": "Mona Lisa" },
+        { "number": 5, "hint": "Företag", "word": "Spotify" },
+        { "number": 6, "hint": "Serie", "word": "Dragon Ball" },
+        { "number": 7, "hint": "Spel", "word": "Monopol" },
+        { "number": 8, "hint": "Media", "word": "SVT" }
+      ]
+    },
+    {
+      "id": 8,
+      "words": [
+        { "number": 1, "hint": "Historia", "word": "Vikingar" },
+        { "number": 2, "hint": "Sport", "word": "Zlatan" },
+        { "number": 3, "hint": "Fordon", "word": "Koenigsegg" },
+        { "number": 4, "hint": "Hemsida", "word": "YouTube" },
+        { "number": 5, "hint": "Studio", "word": "DICE" },
+        { "number": 6, "hint": "Yrke", "word": "Marcus Samuelsson" },
+        { "number": 7, "hint": "Festival", "word": "Midsommar" },
+        { "number": 8, "hint": "Tidning", "word": "Aftonbladet" }
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        { "number": 1, "hint": "Person", "word": "Sokrates" },
+        { "number": 2, "hint": "Prestation", "word": "Nobelpriset" },
+        { "number": 3, "hint": "Strid", "word": "Waterloo" },
+        { "number": 4, "hint": "Kanal", "word": "TV4" },
+        { "number": 5, "hint": "Företag", "word": "Nintendo" },
+        { "number": 6, "hint": "Robot", "word": "R2-D2" },
+        { "number": 7, "hint": "Produkt", "word": "Oatly" },
+        { "number": 8, "hint": "Event", "word": "Melodifestivalen" }
+      ]
+    },
+    {
+      "id": 10,
+      "words": [
+        { "number": 1, "hint": "Karaktär", "word": "Pippi Långstrump" },
+        { "number": 2, "hint": "Varelse", "word": "Fenix" },
+        { "number": 3, "hint": "Byggnad", "word": "Kaknästornet" },
+        { "number": 4, "hint": "App", "word": "Spotify" },
+        { "number": 5, "hint": "Grupp", "word": "Anonymous" },
+        { "number": 6, "hint": "Serie", "word": "Bamse" },
+        { "number": 7, "hint": "Företag", "word": "Klarna" },
+        { "number": 8, "hint": "Plats", "word": "Liseberg" }
+      ]
+    },
+    {
+      "id": 11,
+      "words": [
+        { "number": 1, "hint": "Tal", "word": "Nobeltal" },
+        { "number": 2, "hint": "Person", "word": "Alfred Nobel" },
+        { "number": 3, "hint": "Citat", "word": "Lagom är bäst" },
+        { "number": 4, "hint": "Film", "word": "Star Wars" },
+        { "number": 5, "hint": "Hemsida", "word": "Wikipedia" },
+        { "number": 6, "hint": "Musik", "word": "Swedish House Mafia" },
+        { "number": 7, "hint": "Symbol", "word": "Tre Kronor" },
+        { "number": 8, "hint": "Mat", "word": "Köttbullar" }
+      ]
+    },
+    {
+      "id": 12,
+      "words": [
+        { "number": 1, "hint": "Par", "word": "Karl och Kristin" },
+        { "number": 2, "hint": "Vetenskap", "word": "Big Bang" },
+        { "number": 3, "hint": "Föremål", "word": "Dalahäst" },
+        { "number": 4, "hint": "Båt", "word": "Vasa" },
+        { "number": 5, "hint": "Skurk", "word": "Darth Vader" },
+        { "number": 6, "hint": "Duo", "word": "Filip och Fredrik" },
+        { "number": 7, "hint": "Tävling", "word": "Vasaloppet" },
+        { "number": 8, "hint": "Program", "word": "På Spåret" }
+      ]
+    },
+    {
+      "id": 13,
+      "words": [
+        { "number": 1, "hint": "Upptäckare", "word": "Andrée" },
+        { "number": 2, "hint": "Experiment", "word": "Dubbelspalt" },
+        { "number": 3, "hint": "System", "word": "BankID" },
+        { "number": 4, "hint": "Teknik", "word": "Bluetooth" },
+        { "number": 5, "hint": "Sjukdom", "word": "Digerdöden" },
+        { "number": 6, "hint": "Tidskrift", "word": "Forskning" },
+        { "number": 7, "hint": "Debatt", "word": "Kärnkraft" },
+        { "number": 8, "hint": "Innovation", "word": "Säkerhetständstickan" }
+      ]
+    },
+    {
+      "id": 14,
+      "words": [
+        { "number": 1, "hint": "Period", "word": "Stormaktstiden" },
+        { "number": 2, "hint": "Rörelse", "word": "Folkhemmet" },
+        { "number": 3, "hint": "Kunglighet", "word": "Vasa" },
+        { "number": 4, "hint": "Park", "word": "Skansen" },
+        { "number": 5, "hint": "Bibliotek", "word": "Stadsbiblioteket" },
+        { "number": 6, "hint": "Område", "word": "Gamla Stan" },
+        { "number": 7, "hint": "Bro", "word": "Öresundsbron" },
+        { "number": 8, "hint": "Kyrka", "word": "Domkyrkan" }
+      ]
+    },
+    {
+      "id": 15,
+      "words": [
+        { "number": 1, "hint": "Innovation", "word": "Swish" },
+        { "number": 2, "hint": "Kultur", "word": "Fika" },
+        { "number": 3, "hint": "Handel", "word": "IKEA" },
+        { "number": 4, "hint": "Pryl", "word": "Ericsson" },
+        { "number": 5, "hint": "Spel", "word": "Minecraft" },
+        { "number": 6, "hint": "Platform", "word": "TikTok" },
+        { "number": 7, "hint": "Dator", "word": "ABC80" },
+        { "number": 8, "hint": "Program", "word": "Photoshop" }
+      ]
+    },
+    {
+      "id": 16,
+      "words": [
+        { "number": 1, "hint": "Dryck", "word": "Trocadero" },
+        { "number": 2, "hint": "Byggnad", "word": "Stadshuset" },
+        { "number": 3, "hint": "Restaurang", "word": "Operakällaren" },
+        { "number": 4, "hint": "Kock", "word": "Leif Mannerström" },
+        { "number": 5, "hint": "Maträtt", "word": "Surströmming" },
+        { "number": 6, "hint": "Plats", "word": "NK" },
+        { "number": 7, "hint": "Gata", "word": "Drottninggatan" },
+        { "number": 8, "hint": "Efterrätt", "word": "Prinsesstårta" }
+      ]
+    },
+    {
+      "id": 17,
+      "words": [
+        { "number": 1, "hint": "Podd", "word": "Alex & Sigge" },
+        { "number": 2, "hint": "Influencer", "word": "PewDiePie" },
+        { "number": 3, "hint": "Spelare", "word": "NiP" },
+        { "number": 4, "hint": "Humor", "word": "Grodan Boll" },
+        { "number": 5, "hint": "Trend", "word": "Fredagsmys" },
+        { "number": 6, "hint": "Internet", "word": "Swircle" },
+        { "number": 7, "hint": "Forum", "word": "Flashback" },
+        { "number": 8, "hint": "Nyhet", "word": "DN" }
+      ]
+    },
+    {
+      "id": 18,
+      "words": [
+        { "number": 1, "hint": "Festival", "word": "Way Out West" },
+        { "number": 2, "hint": "Konsert", "word": "Allsång på Skansen" },
+        { "number": 3, "hint": "Show", "word": "Diggiloo" },
+        { "number": 4, "hint": "Arena", "word": "Friends Arena" },
+        { "number": 5, "hint": "Studio", "word": "Polar Studios" },
+        { "number": 6, "hint": "Album", "word": "Ghost Stories" },
+        { "number": 7, "hint": "Låt", "word": "Dancing Queen" },
+        { "number": 8, "hint": "Bolag", "word": "Universal" }
+      ]
+    },
+    {
+      "id": 19,
+      "words": [
+        { "number": 1, "hint": "Sport", "word": "Tre Kronor" },
+        { "number": 2, "hint": "Lag", "word": "Djurgården" },
+        { "number": 3, "hint": "Tävling", "word": "O-ringen" },
+        { "number": 4, "hint": "Idrottare", "word": "Carolina Klüft" },
+        { "number": 5, "hint": "Arena", "word": "Ullevi" },
+        { "number": 6, "hint": "Serie", "word": "Allsvenskan" },
+        { "number": 7, "hint": "Turnering", "word": "Swedish Open" },
+        { "number": 8, "hint": "Pris", "word": "Bragdguldet" }
+      ]
+    },
+    {
+      "id": 20,
+      "words": [
+        { "number": 1, "hint": "App", "word": "Swish" },
+        { "number": 2, "hint": "Företag", "word": "Ericsson" },
+        { "number": 3, "hint": "Produkt", "word": "Hasselblad" },
+        { "number": 4, "hint": "Tjänst", "word": "Kivra" },
+        { "number": 5, "hint": "Person", "word": "Daniel Ek" },
+        { "number": 6, "hint": "Affärsman", "word": "Marcus Wallenberg" },
+        { "number": 7, "hint": "Handel", "word": "Systembolaget" },
+        { "number": 8, "hint": "Ekonomi", "word": "Stockholmsbörsen" }
+      ]
+    },
+    {
+      "id": 21,
+      "words": [
+        { "number": 1, "hint": "Film", "word": "Låt den rätte komma in" },
+        { "number": 2, "hint": "Regissör", "word": "Ingmar Bergman" },
+        { "number": 3, "hint": "Scen", "word": "Skogskyrkogården" },
+        { "number": 4, "hint": "Replik", "word": "Ronja Rövardotter" },
+        { "number": 5, "hint": "Gala", "word": "Guldbaggen" },
+        { "number": 6, "hint": "Roll", "word": "Millennium" },
+        { "number": 7, "hint": "Rekvisita", "word": "Alfons Åberg" },
+        { "number": 8, "hint": "Effekt", "word": "Battlefield" }
+      ]
+    },
+    {
+      "id": 22,
+      "words": [
+        { "number": 1, "hint": "Litteratur", "word": "Nils Holgersson" },
+        { "number": 2, "hint": "Författare", "word": "Astrid Lindgren" },
+        { "number": 3, "hint": "Figur", "word": "Karlsson på taket" },
+        { "number": 4, "hint": "Serie", "word": "Bamse" },
+        { "number": 5, "hint": "Roman", "word": "Utvandrarna" },
+        { "number": 6, "hint": "Institution", "word": "Svenska Akademien" },
+        { "number": 7, "hint": "Förlag", "word": "Bonnier" },
+        { "number": 8, "hint": "Genre", "word": "Nordic Noir" }
+      ]
     }
   ]
 }
