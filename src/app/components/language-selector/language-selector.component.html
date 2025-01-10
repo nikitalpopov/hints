@@ -2,8 +2,9 @@
   <div class="language-selector__select-wrapper">
     <select
       class="language-selector__select"
-      [value]="currentLanguage"
-      (change)="onLanguageChange($event)"
+      [ngModel]="currentLanguage()"
+      (ngModelChange)="onLanguageChange($event)"
+      title="Change language"
     >
       @for (lang of languages; track lang.code) {
         <option [value]="lang.code">{{ lang.flag }} {{ lang.name }}</option>

@@ -1,11 +1,10 @@
 import { CommonModule } from '@angular/common'
-import { Component, inject } from '@angular/core'
+import { Component, computed, inject } from '@angular/core'
 import { CardsService } from '../../services/cards.service'
 import { WordComponent } from '../word/word.component'
 
 @Component({
   selector: 'app-card',
-  standalone: true,
   imports: [CommonModule, WordComponent],
   templateUrl: './card.component.html',
   styleUrls: ['./card.component.scss'],
@@ -13,7 +12,6 @@ import { WordComponent } from '../word/word.component'
 export class CardComponent {
   private cardsService = inject(CardsService)
 
-  get rows() {
-    return this.cardsService.getCurrentCard()
-  }
+  readonly rows = this.cardsService.currentCard
+  readonly hasRows = computed(() => this.rows().length > 0)
 }

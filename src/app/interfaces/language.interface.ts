@@ -5,3 +5,5 @@ export interface LanguageOption {
   name: string
   flag: string
 }
+
+export type UIKey = 'updatePromptMessage' | 'updatePromptButton'
