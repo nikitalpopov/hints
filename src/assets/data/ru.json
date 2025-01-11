@@ -285,6 +285,136 @@
         { "number": 7, "hint": "Издательство", "word": "АСТ" },
         { "number": 8, "hint": "Жанр", "word": "Русский рок" }
       ]
+    },
+    {
+      "id": 23,
+      "words": [
+        { "number": 1, "hint": "Мультфильм", "word": "Простоквашино" },
+        { "number": 2, "hint": "Анимация", "word": "Studio Ghibli" },
+        { "number": 3, "hint": "Персонаж", "word": "Винни-Пух" },
+        { "number": 4, "hint": "Передача", "word": "Спокойной ночи" },
+        { "number": 5, "hint": "Фильм", "word": "Шрек" },
+        { "number": 6, "hint": "Студия", "word": "Союзмультфильм" },
+        { "number": 7, "hint": "Сериал", "word": "Смешарики" },
+        { "number": 8, "hint": "Стиль", "word": "Аниме" }
+      ]
+    },
+    {
+      "id": 24,
+      "words": [
+        { "number": 1, "hint": "Спорт", "word": "Хоккей" },
+        { "number": 2, "hint": "Игра", "word": "Counter-Strike" },
+        { "number": 3, "hint": "Команда", "word": "Virtus.pro" },
+        { "number": 4, "hint": "Состязание", "word": "Олимпиада" },
+        { "number": 5, "hint": "Арена", "word": "Лужники" },
+        { "number": 6, "hint": "Турнир", "word": "Кубок России" },
+        { "number": 7, "hint": "Игрок", "word": "Акинфеев" },
+        { "number": 8, "hint": "Лига", "word": "КХЛ" }
+      ]
+    },
+    {
+      "id": 25,
+      "words": [
+        { "number": 1, "hint": "Еда", "word": "Пельмени" },
+        { "number": 2, "hint": "Ресторан", "word": "Пушкинъ" },
+        { "number": 3, "hint": "Кухня", "word": "Грузинская" },
+        { "number": 4, "hint": "Блюдо", "word": "Холодец" },
+        { "number": 5, "hint": "Десерт", "word": "Медовик" },
+        { "number": 6, "hint": "Напиток", "word": "Байкал" },
+        { "number": 7, "hint": "Закуска", "word": "Сухарики" },
+        { "number": 8, "hint": "Бренд", "word": "Микоян" }
+      ]
+    },
+    {
+      "id": 26,
+      "words": [
+        { "number": 1, "hint": "Платформа", "word": "Discord" },
+        { "number": 2, "hint": "Приложение", "word": "2ГИС" },
+        { "number": 3, "hint": "Сайт", "word": "Авито" },
+        { "number": 4, "hint": "Сервис", "word": "Twitch" },
+        { "number": 5, "hint": "Программа", "word": "Teams" },
+        { "number": 6, "hint": "Софт", "word": "Касперский" },
+        { "number": 7, "hint": "Игра", "word": "Тетрис" },
+        { "number": 8, "hint": "Сеть", "word": "ВКонтакте" }
+      ]
+    },
+    {
+      "id": 27,
+      "words": [
+        { "number": 1, "hint": "Мода", "word": "Парижская" },
+        { "number": 2, "hint": "Марка", "word": "Bosco" },
+        { "number": 3, "hint": "Стиль", "word": "Русский" },
+        { "number": 4, "hint": "Дизайнер", "word": "Зайцев" },
+        { "number": 5, "hint": "Магазин", "word": "ЦУМ" },
+        { "number": 6, "hint": "Аксессуар", "word": "Павлопосадский" },
+        { "number": 7, "hint": "Коллекция", "word": "Русский Сезон" },
+        { "number": 8, "hint": "Тренд", "word": "Винтаж" }
+      ]
+    },
+    {
+      "id": 28,
+      "words": [
+        { "number": 1, "hint": "Музыка", "word": "Нашествие" },
+        { "number": 2, "hint": "Артист", "word": "Земфира" },
+        { "number": 3, "hint": "Жанр", "word": "Русский рок" },
+        { "number": 4, "hint": "Группа", "word": "Кино" },
+        { "number": 5, "hint": "Альбом", "word": "Черный альбом" },
+        { "number": 6, "hint": "Фестиваль", "word": "Алые паруса" },
+        { "number": 7, "hint": "Коллектив", "word": "Любэ" },
+        { "number": 8, "hint": "Площадка", "word": "ВКонтакте Музыка" }
+      ]
+    },
+    {
+      "id": 29,
+      "words": [
+        { "number": 1, "hint": "Наука", "word": "Черная дыра" },
+        { "number": 2, "hint": "Открытие", "word": "Графен" },
+        { "number": 3, "hint": "Теория", "word": "Относительность" },
+        { "number": 4, "hint": "Космос", "word": "Гагарин" },
+        { "number": 5, "hint": "Проект", "word": "Сколково" },
+        { "number": 6, "hint": "Исследование", "word": "Байкал" },
+        { "number": 7, "hint": "Технология", "word": "Спутник V" },
+        { "number": 8, "hint": "Инновация", "word": "ГЛОНАСС" }
+      ]
+    },
+    {
+      "id": 30,
+      "words": [
+        { "number": 1, "hint": "Мем", "word": "Ждун" },
+        { "number": 2, "hint": "Тренд", "word": "Планкинг" },
+        { "number": 3, "hint": "Челлендж", "word": "Манекен" },
+        { "number": 4, "hint": "Вирусное", "word": "Патимейкер" },
+        { "number": 5, "hint": "Канал", "word": "Дудь" },
+        { "number": 6, "hint": "Блогер", "word": "Ивангай" },
+        { "number": 7, "hint": "Стрим", "word": "Папич" },
+        { "number": 8, "hint": "Форум", "word": "Пикабу" }
+      ]
+    },
+    {
+      "id": 31,
+      "words": [
+        { "number": 1, "hint": "Хобби", "word": "Дача" },
+        { "number": 2, "hint": "Занятие", "word": "Грибы" },
+        { "number": 3, "hint": "Коллекция", "word": "Значки" },
+        { "number": 4, "hint": "Ремесло", "word": "Гжель" },
+        { "number": 5, "hint": "Спорт", "word": "Городки" },
+        { "number": 6, "hint": "Игра", "word": "Лапта" },
+        { "number": 7, "hint": "Искусство", "word": "Хохлома" },
+        { "number": 8, "hint": "Образ жизни", "word": "Баня" }
+      ]
+    },
+    {
+      "id": 32,
+      "words": [
+        { "number": 1, "hint": "Место", "word": "Перевал Дятлова" },
+        { "number": 2, "hint": "Тайна", "word": "Тунгусский" },
+        { "number": 3, "hint": "Легенда", "word": "Китеж" },
+        { "number": 4, "hint": "Явление", "word": "Белые ночи" },
+        { "number": 5, "hint": "История", "word": "Баба Яга" },
+        { "number": 6, "hint": "Миф", "word": "Берегиня" },
+        { "number": 7, "hint": "Регион", "word": "Эльбрус" },
+        { "number": 8, "hint": "Чудо", "word": "Кольская" }
+      ]
     }
   ]
 }

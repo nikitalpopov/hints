@@ -285,6 +285,136 @@
         { "number": 7, "hint": "Book Company", "word": "Penguin" },
         { "number": 8, "hint": "Book Category", "word": "Sci Fi" }
       ]
+    },
+    {
+      "id": 23,
+      "words": [
+        { "number": 1, "hint": "Cartoon", "word": "Rick and Morty" },
+        { "number": 2, "hint": "Animation", "word": "Studio Ghibli" },
+        { "number": 3, "hint": "Character", "word": "Pikachu" },
+        { "number": 4, "hint": "Show", "word": "South Park" },
+        { "number": 5, "hint": "Movie", "word": "Shrek" },
+        { "number": 6, "hint": "Studio", "word": "DreamWorks" },
+        { "number": 7, "hint": "Series", "word": "Avatar" },
+        { "number": 8, "hint": "Art Style", "word": "Anime" }
+      ]
+    },
+    {
+      "id": 24,
+      "words": [
+        { "number": 1, "hint": "Sport", "word": "UFC" },
+        { "number": 2, "hint": "Game", "word": "Counter-Strike" },
+        { "number": 3, "hint": "Team", "word": "Cloud9" },
+        { "number": 4, "hint": "Competition", "word": "Olympics" },
+        { "number": 5, "hint": "Arena", "word": "Wembley" },
+        { "number": 6, "hint": "Tournament", "word": "Super Bowl" },
+        { "number": 7, "hint": "Player", "word": "Ronaldo" },
+        { "number": 8, "hint": "League", "word": "NBA" }
+      ]
+    },
+    {
+      "id": 25,
+      "words": [
+        { "number": 1, "hint": "Food", "word": "Ramen" },
+        { "number": 2, "hint": "Restaurant", "word": "Nobu" },
+        { "number": 3, "hint": "Cuisine", "word": "Thai" },
+        { "number": 4, "hint": "Dish", "word": "Fish & Chips" },
+        { "number": 5, "hint": "Dessert", "word": "Crème Brûlée" },
+        { "number": 6, "hint": "Drink", "word": "Bubble Tea" },
+        { "number": 7, "hint": "Snack", "word": "Pringles" },
+        { "number": 8, "hint": "Brand", "word": "Heinz" }
+      ]
+    },
+    {
+      "id": 26,
+      "words": [
+        { "number": 1, "hint": "Platform", "word": "Discord" },
+        { "number": 2, "hint": "App", "word": "Snapchat" },
+        { "number": 3, "hint": "Website", "word": "LinkedIn" },
+        { "number": 4, "hint": "Service", "word": "Twitch" },
+        { "number": 5, "hint": "Tool", "word": "Zoom" },
+        { "number": 6, "hint": "Software", "word": "Adobe" },
+        { "number": 7, "hint": "Game", "word": "Roblox" },
+        { "number": 8, "hint": "Network", "word": "Twitter" }
+      ]
+    },
+    {
+      "id": 27,
+      "words": [
+        { "number": 1, "hint": "Fashion", "word": "Supreme" },
+        { "number": 2, "hint": "Brand", "word": "Rolex" },
+        { "number": 3, "hint": "Style", "word": "Streetwear" },
+        { "number": 4, "hint": "Designer", "word": "Versace" },
+        { "number": 5, "hint": "Store", "word": "Zara" },
+        { "number": 6, "hint": "Accessory", "word": "AirMax" },
+        { "number": 7, "hint": "Collection", "word": "Yeezy" },
+        { "number": 8, "hint": "Trend", "word": "Vintage" }
+      ]
+    },
+    {
+      "id": 28,
+      "words": [
+        { "number": 1, "hint": "Music", "word": "Coachella" },
+        { "number": 2, "hint": "Artist", "word": "Lady Gaga" },
+        { "number": 3, "hint": "Genre", "word": "K-pop" },
+        { "number": 4, "hint": "Band", "word": "Coldplay" },
+        { "number": 5, "hint": "Album", "word": "Thriller" },
+        { "number": 6, "hint": "Concert", "word": "Glastonbury" },
+        { "number": 7, "hint": "Group", "word": "BTS" },
+        { "number": 8, "hint": "Platform", "word": "SoundCloud" }
+      ]
+    },
+    {
+      "id": 29,
+      "words": [
+        { "number": 1, "hint": "Science", "word": "Black Hole" },
+        { "number": 2, "hint": "Discovery", "word": "Higgs Boson" },
+        { "number": 3, "hint": "Theory", "word": "Relativity" },
+        { "number": 4, "hint": "Space", "word": "SpaceX" },
+        { "number": 5, "hint": "Project", "word": "CERN" },
+        { "number": 6, "hint": "Research", "word": "Human Genome" },
+        { "number": 7, "hint": "Technology", "word": "Quantum" },
+        { "number": 8, "hint": "Innovation", "word": "Tesla Coil" }
+      ]
+    },
+    {
+      "id": 30,
+      "words": [
+        { "number": 1, "hint": "Meme", "word": "Pepe" },
+        { "number": 2, "hint": "Trend", "word": "Ice Bucket" },
+        { "number": 3, "hint": "Challenge", "word": "Harlem Shake" },
+        { "number": 4, "hint": "Viral", "word": "Gangnam Style" },
+        { "number": 5, "hint": "Channel", "word": "MrBeast" },
+        { "number": 6, "hint": "Creator", "word": "MKBHD" },
+        { "number": 7, "hint": "Stream", "word": "xQc" },
+        { "number": 8, "hint": "Community", "word": "4chan" }
+      ]
+    },
+    {
+      "id": 31,
+      "words": [
+        { "number": 1, "hint": "Hobby", "word": "LEGO" },
+        { "number": 2, "hint": "Activity", "word": "Geocaching" },
+        { "number": 3, "hint": "Collection", "word": "Funko Pop" },
+        { "number": 4, "hint": "Craft", "word": "Origami" },
+        { "number": 5, "hint": "Sport", "word": "Parkour" },
+        { "number": 6, "hint": "Game", "word": "D&D" },
+        { "number": 7, "hint": "Art", "word": "Cosplay" },
+        { "number": 8, "hint": "Lifestyle", "word": "Van Life" }
+      ]
+    },
+    {
+      "id": 32,
+      "words": [
+        { "number": 1, "hint": "Place", "word": "Area 51" },
+        { "number": 2, "hint": "Mystery", "word": "Stonehenge" },
+        { "number": 3, "hint": "Legend", "word": "Atlantis" },
+        { "number": 4, "hint": "Phenomenon", "word": "Bermuda" },
+        { "number": 5, "hint": "Story", "word": "Bigfoot" },
+        { "number": 6, "hint": "Myth", "word": "Loch Ness" },
+        { "number": 7, "hint": "Location", "word": "Easter Island" },
+        { "number": 8, "hint": "Wonder", "word": "Aurora" }
+      ]
     }
   ]
 }

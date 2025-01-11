@@ -285,6 +285,136 @@
         { "number": 7, "hint": "Förlag", "word": "Bonnier" },
         { "number": 8, "hint": "Genre", "word": "Nordic Noir" }
       ]
+    },
+    {
+      "id": 23,
+      "words": [
+        { "number": 1, "hint": "Tecknat", "word": "Bamse" },
+        { "number": 2, "hint": "Animation", "word": "Studio Ghibli" },
+        { "number": 3, "hint": "Figur", "word": "Mumin" },
+        { "number": 4, "hint": "Program", "word": "Bolibompa" },
+        { "number": 5, "hint": "Film", "word": "Shrek" },
+        { "number": 6, "hint": "Studio", "word": "SF Studios" },
+        { "number": 7, "hint": "Serie", "word": "Avatar" },
+        { "number": 8, "hint": "Stil", "word": "Anime" }
+      ]
+    },
+    {
+      "id": 24,
+      "words": [
+        { "number": 1, "hint": "Sport", "word": "Bandy" },
+        { "number": 2, "hint": "Spel", "word": "Counter-Strike" },
+        { "number": 3, "hint": "Lag", "word": "Ninjas in Pyjamas" },
+        { "number": 4, "hint": "Tävling", "word": "OS" },
+        { "number": 5, "hint": "Arena", "word": "Friends Arena" },
+        { "number": 6, "hint": "Turnering", "word": "Gothia Cup" },
+        { "number": 7, "hint": "Spelare", "word": "Zlatan" },
+        { "number": 8, "hint": "Liga", "word": "SHL" }
+      ]
+    },
+    {
+      "id": 25,
+      "words": [
+        { "number": 1, "hint": "Mat", "word": "Husmanskost" },
+        { "number": 2, "hint": "Restaurang", "word": "Frantzén" },
+        { "number": 3, "hint": "Kök", "word": "Thai" },
+        { "number": 4, "hint": "Rätt", "word": "Smörgåstårta" },
+        { "number": 5, "hint": "Efterrätt", "word": "Kladdkaka" },
+        { "number": 6, "hint": "Dryck", "word": "Oboy" },
+        { "number": 7, "hint": "Snacks", "word": "OLW" },
+        { "number": 8, "hint": "Märke", "word": "Felix" }
+      ]
+    },
+    {
+      "id": 26,
+      "words": [
+        { "number": 1, "hint": "Platform", "word": "Discord" },
+        { "number": 2, "hint": "App", "word": "Swish" },
+        { "number": 3, "hint": "Hemsida", "word": "Blocket" },
+        { "number": 4, "hint": "Tjänst", "word": "Twitch" },
+        { "number": 5, "hint": "Verktyg", "word": "Teams" },
+        { "number": 6, "hint": "Program", "word": "Skype" },
+        { "number": 7, "hint": "Spel", "word": "Minecraft" },
+        { "number": 8, "hint": "Nätverk", "word": "Twitter" }
+      ]
+    },
+    {
+      "id": 27,
+      "words": [
+        { "number": 1, "hint": "Mode", "word": "Acne Studios" },
+        { "number": 2, "hint": "Märke", "word": "Daniel Wellington" },
+        { "number": 3, "hint": "Stil", "word": "Skandinavisk" },
+        { "number": 4, "hint": "Designer", "word": "Filippa K" },
+        { "number": 5, "hint": "Butik", "word": "Åhléns" },
+        { "number": 6, "hint": "Accessoar", "word": "Fjällräven" },
+        { "number": 7, "hint": "Kollektion", "word": "H&M x Designer" },
+        { "number": 8, "hint": "Trend", "word": "Vintage" }
+      ]
+    },
+    {
+      "id": 28,
+      "words": [
+        { "number": 1, "hint": "Musik", "word": "Sweden Rock" },
+        { "number": 2, "hint": "Artist", "word": "Zara Larsson" },
+        { "number": 3, "hint": "Genre", "word": "Dansband" },
+        { "number": 4, "hint": "Band", "word": "Kent" },
+        { "number": 5, "hint": "Album", "word": "Ghost" },
+        { "number": 6, "hint": "Festival", "word": "Summerburst" },
+        { "number": 7, "hint": "Grupp", "word": "First Aid Kit" },
+        { "number": 8, "hint": "Platform", "word": "Spotify" }
+      ]
+    },
+    {
+      "id": 29,
+      "words": [
+        { "number": 1, "hint": "Vetenskap", "word": "Svarta hål" },
+        { "number": 2, "hint": "Upptäckt", "word": "Nobelpris" },
+        { "number": 3, "hint": "Teori", "word": "Relativitet" },
+        { "number": 4, "hint": "Rymd", "word": "Christer Fuglesang" },
+        { "number": 5, "hint": "Projekt", "word": "MAX IV" },
+        { "number": 6, "hint": "Forskning", "word": "Karolinska" },
+        { "number": 7, "hint": "Teknik", "word": "Ericsson 5G" },
+        { "number": 8, "hint": "Innovation", "word": "Bluetooth" }
+      ]
+    },
+    {
+      "id": 30,
+      "words": [
+        { "number": 1, "hint": "Meme", "word": "Coffin Dance" },
+        { "number": 2, "hint": "Trend", "word": "Planking" },
+        { "number": 3, "hint": "Utmaning", "word": "Mannequin" },
+        { "number": 4, "hint": "Viral", "word": "PewDiePie" },
+        { "number": 5, "hint": "Kanal", "word": "IJustWantToBeCool" },
+        { "number": 6, "hint": "Skapare", "word": "Therese Lindgren" },
+        { "number": 7, "hint": "Stream", "word": "Forsen" },
+        { "number": 8, "hint": "Forum", "word": "Flashback" }
+      ]
+    },
+    {
+      "id": 31,
+      "words": [
+        { "number": 1, "hint": "Hobby", "word": "Orientering" },
+        { "number": 2, "hint": "Aktivitet", "word": "Allemansrätten" },
+        { "number": 3, "hint": "Samling", "word": "Frimärken" },
+        { "number": 4, "hint": "Hantverk", "word": "Slöjd" },
+        { "number": 5, "hint": "Sport", "word": "Innebandy" },
+        { "number": 6, "hint": "Spel", "word": "Brädspel" },
+        { "number": 7, "hint": "Konst", "word": "Dala Painting" },
+        { "number": 8, "hint": "Livsstil", "word": "Friluftsliv" }
+      ]
+    },
+    {
+      "id": 32,
+      "words": [
+        { "number": 1, "hint": "Plats", "word": "Ales stenar" },
+        { "number": 2, "hint": "Mystik", "word": "Storsjöodjuret" },
+        { "number": 3, "hint": "Legend", "word": "John Bauer" },
+        { "number": 4, "hint": "Fenomen", "word": "Norrsken" },
+        { "number": 5, "hint": "Saga", "word": "Näcken" },
+        { "number": 6, "hint": "Myt", "word": "Midgård" },
+        { "number": 7, "hint": "Område", "word": "Kebnekaise" },
+        { "number": 8, "hint": "Under", "word": "Vätternrundan" }
+      ]
     }
   ]
 }
