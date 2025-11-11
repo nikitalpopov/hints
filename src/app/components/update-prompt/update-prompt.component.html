@@ -1,4 +1,4 @@
-@if (showPrompt) {
+@if (showPrompt()) {
   <div class="update-prompt">
     <p>{{ 'updatePromptMessage' | translate }}</p>
     <button (click)="updateApp()">{{ 'updatePromptButton' | translate }}</button>

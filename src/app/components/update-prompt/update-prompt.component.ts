@@ -1,19 +1,19 @@
-import { CommonModule } from '@angular/common'
-import { Component, inject } from '@angular/core'
+import { ChangeDetectionStrategy, Component, inject, signal } from '@angular/core'
 import { SwUpdate, type VersionReadyEvent } from '@angular/service-worker'
 import { filter } from 'rxjs'
 import { TranslatePipe } from '../../pipes/translate.pipe'
 
 @Component({
   selector: 'app-update-prompt',
-  imports: [CommonModule, TranslatePipe],
+  imports: [TranslatePipe],
   templateUrl: './update-prompt.component.html',
   styleUrls: ['./update-prompt.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class UpdatePromptComponent {
   private swUpdate = inject(SwUpdate)
 
-  showPrompt = false
+  showPrompt = signal(false)
 
   constructor() {
     if (!this.swUpdate.isEnabled) return
@@ -21,11 +21,12 @@ export class UpdatePromptComponent {
     this.swUpdate.versionUpdates
       .pipe(filter((evt): evt is VersionReadyEvent => evt.type === 'VERSION_READY'))
       .subscribe(() => {
-        this.showPrompt = true
+        this.showPrompt.set(true)
       })
   }
 
-  updateApp(): void {
-    this.swUpdate.activateUpdate().then(() => document.location.reload())
+  async updateApp(): Promise<void> {
+    await this.swUpdate.activateUpdate()
+    document.location.reload()
   }
 }

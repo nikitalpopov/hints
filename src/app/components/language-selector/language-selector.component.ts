@@ -1,18 +1,17 @@
-import { CommonModule } from '@angular/common'
-import { Component, inject } from '@angular/core'
+import { ChangeDetectionStrategy, Component, inject } from '@angular/core'
+import { FormsModule } from '@angular/forms'
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome'
 import { faChevronDown, faRotateRight } from '@fortawesome/free-solid-svg-icons'
 import type { Language } from '../../interfaces/language.interface'
 import { CardsService } from '../../services/cards.service'
 import { LanguageService } from '../../services/language.service'
-import { FormsModule } from '@angular/forms'
 
 @Component({
   selector: 'app-language-selector',
-  imports: [CommonModule, FormsModule, FontAwesomeModule],
+  imports: [FormsModule, FontAwesomeModule],
   templateUrl: './language-selector.component.html',
   styleUrls: ['./language-selector.component.scss'],
-  standalone: true,
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class LanguageSelectorComponent {
   private cardsService = inject(CardsService)
